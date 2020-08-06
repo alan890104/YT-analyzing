@@ -1,0 +1,5 @@
+pkg_resources.DistributionNotFound: The 'google-api-python-client' distribution was not found and is required by the application
+[3648] Failed to execute script analyzing
+
+
+pyinstaller -F --add-data "main.kv;main.kv" yourtarget.py
